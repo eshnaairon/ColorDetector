@@ -4,6 +4,7 @@ Color detection using opencv python
 Colour detection is the process of detecting the name of any color. Colour detection is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps.
 
 This is an application through which you can automatically get the name of the color by double clicking on it.
+I have used a data file that contains the color name and its values (colors.csv). Then I calculated the distance from each color and the color with the shortest distance is selected. 
 
 Technology and tools wise this project covers-
 1. Python
