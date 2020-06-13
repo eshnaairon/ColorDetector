@@ -12,12 +12,16 @@ Technology and tools wise this project covers-
 4. OpenCV
 5. Argparse library (to get the image from the user)
 
+### To Run 
+Write the following code in cmd-
+
+_python color_detection.py -i (path of the image you want to use)_
+
+
 Here is an example-
 ![](output1.png)
 ![](output2.png)
 ![](output3.png)
 
 
-To Run write the following code in cmd-
 
-python color_detection.py -i (path of the image you want to use)
