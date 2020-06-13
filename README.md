@@ -1,4 +1,4 @@
-# Color_detector
+# Color Detector
 Color detection using opencv python
 
 Colour detection is the process of detecting the name of any color. Colour detection is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps.
